@@ -1,0 +1,31 @@
+_repo: The-Dolorous-Passion-of-Our-Lord-Jesus-Christ_10866
+_version: 0.0.1
+alternative_title: Bittere Leiden Unseres Herrn Jesu Christi. English
+creator:
+  author:
+    agent_name: Emmerich, Anna Katharina
+    aliases:
+    - Emmerick, Anna Katharina
+    - Emmerich, Catherine
+    - Emmerich, Anne Catherine
+    - Emmerick, Ana Catalina
+    birthdate: 1774
+    deathdate: 1824
+    gutenberg_agent_id: '3730'
+    url: http://www.gutenberg.org/2009/agents/3730
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Catherine_Emmerich
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Passion -- Devotional literature'
+- !lcc 'BT'
+- GITenberg
+title: The Dolorous Passion of Our Lord Jesus Christ
+url: http://www.gutenberg.org/ebooks/10866
